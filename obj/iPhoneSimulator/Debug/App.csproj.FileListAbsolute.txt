@@ -1,0 +1,20 @@
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/App.exe
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/App.pdb
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/App.csproj.AssemblyReference.cache
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/App.csproj.CoreCompileInputs.cache
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/App.csproj.CopyComplete
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/App.exe
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/App.pdb
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/actool/_PartialAppManifest.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/actool/_BundleResourceWithLogicalName.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/actool/_ProcessedImageAssetsPath.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/coremlc/_PartialAppManifest.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/_ProcessedBundleResourcesPath.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/_ProcessedContentPath.items
+/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/optimized/

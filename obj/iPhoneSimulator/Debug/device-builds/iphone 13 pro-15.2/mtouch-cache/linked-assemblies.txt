@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:false
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/App.app:/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/mtouch-cache/1-Link/App.exe
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/App.app:/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/mtouch-cache/1-Link/mscorlib.dll
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/App.app:/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/saiashishdarapureddy/Projects/App/App/bin/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/App.app:/Users/saiashishdarapureddy/Projects/App/App/obj/iPhoneSimulator/Debug/device-builds/iphone 13 pro-15.2/mtouch-cache/1-Link/System.dll
